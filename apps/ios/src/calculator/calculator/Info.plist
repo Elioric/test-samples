@@ -22,7 +22,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.petri.wunsch.calculator</string>
+			<string>com.pragma.testing.*</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>prefs</string>
